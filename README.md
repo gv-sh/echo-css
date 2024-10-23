@@ -1,4 +1,4 @@
-@org/package-name
+# @org/package-name
 
 [![Node.js Package](https://github.com/gv-sh/package-name/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/gv-sh/package-name/actions/workflows/npm-publish.yml)
 
