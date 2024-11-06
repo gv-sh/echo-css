@@ -2,16 +2,16 @@
 
 [![Node.js Package](https://github.com/gv-sh/package-name/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/gv-sh/package-name/actions/workflows/npm-publish.yml)
 
-One line description of the package.
+CSS styles for https://gaurav-singh.info
 
 ## Features
 
 ## Installation 
 
-To install @org/package-name, use npm:
+To install echo-css, use npm:
 
 ```bash
-npm install @org/package-name
+npm install echo-css
 ```
 
 ## Usage
