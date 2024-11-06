@@ -1,6 +1,6 @@
 {
     "name": "echo-css",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "CSS styles for https://gaurav-singh.info",
     "main": "src/reset.css",
     "styles": [
