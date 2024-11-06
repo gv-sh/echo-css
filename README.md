@@ -1,6 +1,6 @@
-# @org/package-name
+# echo-css
 
-[![Node.js Package](https://github.com/gv-sh/package-name/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/gv-sh/package-name/actions/workflows/npm-publish.yml)
+[![Node.js Package](https://github.com/gv-sh/echo-css/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/gv-sh/echo-css/actions/workflows/npm-publish.yml)
 
 CSS styles for https://gaurav-singh.info
 
